@@ -8,7 +8,7 @@ app = Flask(__name__)
 llama = LlamaAPI("LL-GUoKRxfem5xvKwxOlTFX5uLvgt3JhbZBMw8dv60AOhg0K3OWAXx9hwdyveOMlTcV")
 
 # Function to read the resume text from a file
-def read_resume_text(file_path): 
+def read_resume_text(file_path):
     with open(file_path, 'r') as file:
         return file.read()
 
@@ -17,13 +17,20 @@ resume_txt_path = "assets/a.txt"  # Update the path if necessary
 resume_text = read_resume_text(resume_txt_path)
 
 # API endpoint to handle questions
-@app.route('/ask', methods=['POST'])
+@app.route('/ask', methods=['GET', 'POST'])
 def ask_question():
-    data = request.json
-    question = data.get('question', '')
+    if request.method == 'POST':
+        data = request.json
+        question = data.get('question', '')
 
-    if not question:
-        return jsonify({'error': 'No question provided'}), 400
+        if not question:
+            return jsonify({'error': 'No question provided'}), 400
+
+    elif request.method == 'GET':
+        question = request.args.get('question', '')
+
+        if not question:
+            return jsonify({'error': 'No question provided'}), 400
 
     # Build the API request
     api_request_json = {
