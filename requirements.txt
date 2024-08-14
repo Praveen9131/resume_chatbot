@@ -1,0 +1,3 @@
+llamaapi
+flask
+PyPDF2

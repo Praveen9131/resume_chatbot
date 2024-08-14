@@ -1,0 +1,70 @@
+
+JOGI PRAVEEN
+B.Tech CSE from DSU Trichy | Seeking Data Scientist or ML Engineer roles
+[jogipraveen9122@gmail.com | ph +91 9121564760 | Trichy, India | Portfolio | LinkedIn | GitHub]
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Dhanalakshmi Srinivasan University, Trichy
+- May 2025 | Trichy, India
+- CGPA: 8.00/10
+
+EXPERIENCE
+Artificial Intelligence and Machine Learning Intern
+Brainmeasures | March 2024 – Present | Remote
+- Developed AI applications using OpenAI and Langchain, automating question and content generation to enhance educational services.
+- Architected scalable solutions for content creation leveraging advanced language models.
+Skills: OpenAI, Langchain, FastAPI
+
+Data Science Intern
+United We Care | April 2024 – April 2024 | Remote
+- Optimized data integration solutions with Neo4j for health data applications.
+- Improved data processing efficiency with Docker workflows.
+Skills: Neo4j, Docker, Data Integration
+
+Generative AI Intern
+Zymbia Interactive Technologies Private Limited | Feb 2024 – Feb 2024 | Remote
+- Enhanced chatbot performance using OpenAI API and advanced prompting techniques.
+- Implemented an intuitive chatbot interface with Streamlit.
+Skills: OpenAI API, Langchain, Prompt Engineering, Chatbot Development, Streamlit
+
+Machine Learning Intern
+WebMobi360 | Sep 2023 – Dec 2023 | Remote
+- Developed a face emotion recognition system using advanced computer vision techniques.
+- Created responsive software solutions to improve user interaction.
+Skills: Computer Vision, Emotion Recognition
+
+PROJECTS
+Questions Generation with AI
+- Developed AI applications using OpenAI and Langchain to automate question and content generation, enhancing educational and informational services.
+- Improved user engagement and learning outcomes through advanced question generation algorithms and scalable content creation, ensuring high-quality outputs.
+Skills: Python, OpenAI API, Langchain, Flask
+
+Generative Text Summarization
+- Created a generative model to summarize lengthy texts into concise summaries using GPT-3.
+- Developed an API for easy integration of the summarization tool into other applications.
+Skills: OpenAI API, Streamlit, Langchain
+
+Content Generation with AI
+- Developed AI applications using OpenAI and Langchain to automate content generation for online courses, improving educational content delivery.
+- Implemented algorithms for scalable content creation and ensured high-quality outputs that enhance user engagement and learning outcomes.
+Skills: Python, OpenAI API, Langchain, FastAPI
+
+TECHNICAL SKILLS
+Programming languages: Python, SQL
+Machine Learning: Supervised Learning, Unsupervised Learning, Scikit-Learn, TensorFlow, XGBoost, Random Forest, SVM, Clustering, Dimensionality Reduction
+Tools & Technologies: Git, TensorFlow, Numpy, Pandas, scikit-learn, Jupyter, VS Code, MS Excel, GCP, MongoDB
+
+HACKATHONS
+Algobarath Hackathon | Sep 2022
+- Created an Auction dAPP smart contract using PyTeal.
+- Implemented functions like Minimum Bid, Time Limit, and Close Bid to enhance the functionality of the auction.
+
+Portfolio: https://praveen-portfolio-gehl.onrender.com
+LinkedIn: https://www.linkedin.com/in/jogi-praveen-8a23b2238/
+GitHub: https://github.com/praveen9131
+
+
+Hi:Hello!
+
+my name is jogi praveen
