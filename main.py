@@ -8,7 +8,7 @@ app = Flask(__name__)
 llama = LlamaAPI("LL-GUoKRxfem5xvKwxOlTFX5uLvgt3JhbZBMw8dv60AOhg0K3OWAXx9hwdyveOMlTcV")
 
 # Function to read the resume text from a file
-def read_resume_text(file_path):
+def read_resume_text(file_path): 
     with open(file_path, 'r') as file:
         return file.read()
 
