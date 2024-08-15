@@ -71,7 +71,7 @@ HTML_TEMPLATE = '''
             flex-direction: column;
         }
         .chat-header {
-            background-color: #007bff;
+            
             color: white;
             padding: 15px;
             text-align: center;
@@ -142,7 +142,7 @@ HTML_TEMPLATE = '''
 </head>
 <body>
     <div class="chat-container">
-        <div class="chat-header">Resume Chatbot</div>
+        
         <div class="chat-messages" id="chat-messages">
             <!-- Messages will appear here -->
         </div>
